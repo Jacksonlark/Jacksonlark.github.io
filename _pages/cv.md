@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+* Graduate from HIT(211, 985 and C9), major in computer science, master degree.
+* 3+years experience in Search Engine and Natural Language Processing.
+* Strong interest in technology, especially intellectual technology.
+* Hobbies: Reading, Movie and Travel
+
 Education
 ======
 * B.S. in Computer Science and Technology, Zhengzhou University, 2008-2012
